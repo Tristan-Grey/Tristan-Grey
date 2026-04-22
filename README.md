@@ -1,5 +1,6 @@
-## Hi there 👋
-test
+## Hello! My name is Tristan, I am currently living in Florida and studying at Lake Sumter State College. I plan to transfer to UCF where I can complete my Computer Science Degree. 
+Ideally, Id like to get into the field of cybersecurity, with red team being my end goal. Im also new to github, so expect a few sloppy write ups.
+
 <!--
 **Tristan-Grey/Tristan-Grey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
