@@ -1,5 +1,5 @@
 ## Howdy. My name is Tristan,
-I am new to github, so expect a few sloppy write ups.
+New to github
 
 <!--
 **Tristan-Grey/Tristan-Grey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
